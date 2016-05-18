@@ -6,8 +6,8 @@ import (
 	"net/http"
 	"os"
 	"os/signal"
-	"syscall"
 	"strings"
+	"syscall"
 )
 
 func main() {
